@@ -20,7 +20,7 @@ echo -e "\trunning the script...\n"
 echo -e "\t1. gnome-shell version $SHELL_VERSION detected"
 
 echo -e "\t2. Creating extension pack..."
-gnome-extensions pack --force --out-dir . . && echo -e "\t3. extension pack created"
+gnome-extensions pack --force --out-dir . --extra-source=corners --extra-source=schemas . && echo -e "\t3. extension pack created"
 
 echo -e "\t4. Installing the extension from the pack...\n"
 
