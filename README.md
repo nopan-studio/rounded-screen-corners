@@ -46,6 +46,10 @@ Open the extension settings to customize:
 - **Default Mode**: Toggle between behavior relative to the panel or static screen edges.
 - **Corner Color**: Pick a custom color and transparency for the corner overlays.
 
+## Acknowledgements
+
+- **Corner SVGs**: The SVG assets for the rounded corners are based on the [gnome-rounded-corners](https://github.com/lennart-k/gnome-rounded-corners) project by [lennart-k](https://github.com/lennart-k).
+
 ## License
 
 This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
