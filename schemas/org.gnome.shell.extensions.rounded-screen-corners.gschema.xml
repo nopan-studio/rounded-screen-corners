@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.rounded-screen-corners" path="/org/gnome/shell/extensions/rounded-screen-corners/">
+    <key name="corner-size" type="i">
+      <default>16</default>
+      <summary>Corner Size</summary>
+      <description>Size of the rounded corners in pixels.</description>
+    </key>
+    <key name="default-mode" type="b">
+      <default>true</default>
+      <summary>Default Mode</summary>
+      <description>Whether to use default mode (below panel) or static only (screen corners).</description>
+    </key>
+    <key name="corner-color" type="s">
+      <default>"rgba(0,0,0,1)"</default>
+      <summary>Corner Color</summary>
+      <description>RGBA string of the corner color mask.</description>
+    </key>
+    <key name="corner-opacity" type="i">
+      <default>255</default>
+      <summary>Corner Opacity</summary>
+      <description>Opacity of the corners (0-255).</description>
+    </key>
+    <key name="animation-style" type="i">
+      <default>0</default>
+      <summary>Animation Style</summary>
+      <description>0: Fade In (Default), 1: Ease In, 2: None</description>
+    </key>
+    <key name="animation-speed" type="i">
+      <default>250</default>
+      <summary>Animation Speed</summary>
+      <description>Duration of the animation in milliseconds.</description>
+    </key>
+  </schema>
+</schemalist>

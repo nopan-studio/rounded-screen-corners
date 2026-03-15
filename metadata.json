@@ -1,0 +1,16 @@
+{
+  "uuid": "rounded-screen-corners@nopan",
+  "name": "Rounded Screen Corners",
+  "description": "Adds black rounded corner overlays below the top panel and at the bottom corners of the screen.",
+  "version": 1,
+  "shell-version": [
+    "45",
+    "46",
+    "47",
+    "48",
+    "49"
+  ],
+  "url": "",
+  "gettext-domain": "rounded-screen-corners@nopan",
+  "settings-schema": "org.gnome.shell.extensions.rounded-screen-corners"
+}
