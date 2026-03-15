@@ -2,7 +2,9 @@
 
 A GNOME Shell extension that adds aesthetic rounded corners to your screen, creating a modern and premium look for your desktop.
 
-![Rounded Screen Corners](https://raw.githubusercontent.com/gnome-shell-extensions/rounded-screen-corners/master/screenshot.png) <!-- Note: Replace with actual screenshot link if available -->
+![Rounded Screen Corners](https://github.com/nopan-studio/rounded-screen-corners/blob/main/images/1.png)
+
+![Rounded Screen Corners](https://github.com/nopan-studio/rounded-screen-corners/blob/main/images/2.png)
 
 ## Features
 
